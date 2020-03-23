@@ -1,0 +1,9 @@
+C:\Users\Jack\Desktop\Технология разработки\6. UI Calculator\UI Calculator\bin\Debug\UI Calculator.exe.config
+C:\Users\Jack\Desktop\Технология разработки\6. UI Calculator\UI Calculator\bin\Debug\UI Calculator.exe
+C:\Users\Jack\Desktop\Технология разработки\6. UI Calculator\UI Calculator\bin\Debug\UI Calculator.pdb
+C:\Users\Jack\Desktop\Технология разработки\6. UI Calculator\UI Calculator\obj\Debug\UI Calculator.csprojAssemblyReference.cache
+C:\Users\Jack\Desktop\Технология разработки\6. UI Calculator\UI Calculator\obj\Debug\UI_Calculator.MainWindow.resources
+C:\Users\Jack\Desktop\Технология разработки\6. UI Calculator\UI Calculator\obj\Debug\UI_Calculator.Properties.Resources.resources
+C:\Users\Jack\Desktop\Технология разработки\6. UI Calculator\UI Calculator\obj\Debug\UI Calculator.csproj.GenerateResource.cache
+C:\Users\Jack\Desktop\Технология разработки\6. UI Calculator\UI Calculator\obj\Debug\UI Calculator.exe
+C:\Users\Jack\Desktop\Технология разработки\6. UI Calculator\UI Calculator\obj\Debug\UI Calculator.pdb
